@@ -1,0 +1,24 @@
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Cu.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Cu.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Paste.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Paste.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Mask.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Mask.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Alex\Downloads\fpgatest-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Cu.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Cu.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Paste.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Paste.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-F_Mask.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-B_Mask.gbr'.
+Plotted to 'C:\Users\Alex\Downloads\fpgatest-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Alex\Downloads\fpgatest-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.
