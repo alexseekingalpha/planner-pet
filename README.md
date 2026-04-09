@@ -15,3 +15,6 @@ RTC: DS3231
 Power: 500mah lipo whith BQ24040 charging via USBC, TLV75801 ldo to regualate the power to the MCU
 Input: 4 button dpad with + 2 standalone buttons for 'select' and 'back'
 All KiCad files will be uploaded (Using KiCad 9)
+
+<img width="683" height="706" alt="image" src="https://github.com/user-attachments/assets/4ffeafed-9a30-4a59-b4ce-d32edb7ad00d" />
+<img width="749" height="835" alt="image" src="https://github.com/user-attachments/assets/05d88766-bb38-456f-b1fa-d6413de2998f" />
